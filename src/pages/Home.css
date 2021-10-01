@@ -1,0 +1,28 @@
+ion-segment-button{
+    font-size: 16px;
+    color: #000;
+    border: 0px;
+    border-radius: 0px;
+}
+.explorer{
+    background: #5c0099;
+}
+ion-thumbnail{
+    --size: 100%;
+}
+ion-row{
+    margin-top: 5%;
+}
+.slidesegment{
+    margin: 5%;
+    color: black;
+    background: wheat;
+}
+.img1{
+    color:white;
+    font-size: large;
+    height:fit-content;
+    background-image: url('https://i.pinimg.com/236x/99/1e/0b/991e0bb277761b0c2e1a63297f1b1c6b.jpg');
+    width: 100%;
+    object-fit: cover;
+}

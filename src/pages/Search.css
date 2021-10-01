@@ -1,0 +1,33 @@
+.nearby{
+   
+    background: green;
+    color: white;
+}
+.newyork{
+    color: white;
+    font-size: large;
+    height: 200px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1RcifOr0Z2hlf1b5p7HTyds3cDMro2m2FgXi_NtsF03Il6U&s');
+    
+}
+.singapore{
+    color: white;
+    font-size: large;
+    height: 200px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmqC_W3M-udTOIAzTvxskEFB6B07Us3CwsocFWJDNjApVo9DG9&s');
+    
+}
+.rome{
+    color: white;
+    font-size: large;
+    height: 200px;
+    background-image: url('https://www.fodors.com/wp-content/uploads/2018/10/HERO_UltimateRome_Hero_shutterstock789412159.jpg');
+    
+}
+.paris{
+     color: white;
+    font-size: large;
+    height: 200px;
+    background-image: url('https://cdn.popbela.com/content-images/post/20180629/photo-1526285348874-b7ff025fff66-022fb8d45a77007d8b5fcd14e837bbf2_750x500.jpg');
+    
+}
